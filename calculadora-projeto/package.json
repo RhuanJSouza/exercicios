@@ -1,0 +1,17 @@
+{
+  "name": "calculadora-projeto",
+  "version": "1.0.0",
+  "description": "Calculadora Projeto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "Rhuan J Souza",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}

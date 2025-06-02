@@ -17,7 +17,7 @@ export default function App() {
   return (
     <ScrollView>
       <View style={styles.container}>
-        <Text style={{ fontSize: 40 }}>Top 6 álbuns</Text>
+        <Text style={{ fontSize: 40 }}>Top 5 álbuns</Text>
         <Text style={{ fontSize: 40 }}>Lana Del Rey</Text>
 
         <Button title="SPOILER" onPress={handlePress} />
